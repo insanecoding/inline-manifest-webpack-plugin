@@ -1,6 +1,6 @@
 {
-  "name": "inline-manifest-webpack-plugin",
-  "version": "4.0.2",
+  "name": "@insanecoding/inline-manifest-webpack-plugin",
+  "version": "1.0.0",
   "description": "inline your Webpack manifest.js with a script tag to save http request",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/szrenwei/inline-manifest-webpack-plugin.git"
+    "url": "https://github.com/insanecoding/inline-manifest-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
     "plugin",
     "manifest",
+    "inline",
     "runtime",
     "inline-manifest-webpack-plugin"
   ],
-  "author": "szrenwei <shizairw@gmail.com> (https://github.com/szrenwei)",
+  "author": "insanecoding <nzh.dmitry@gmail.com> (https://github.com/insanecoding)",
   "license": "MIT",
-  "homepage": "https://github.com/szrenwei/inline-manifest-webpack-plugin",
+  "homepage": "https://github.com/insanecoding/inline-manifest-webpack-plugin",
   "dependencies": {
     "source-map-url": "0.4.0"
   },
